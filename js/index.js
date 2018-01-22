@@ -15,6 +15,7 @@ for(var i=1; i<9; i++){
   $(".right"+i).css("right", "10%")
   $(".right"+i).css("transform", "translate(0,-40px)")
   // $("#board").append("<p>"+i+"pm - "+i+":50 "+"<textarea rows='3' placeholder='下午讀了哪些呢'></textarea>"+"</p>")
+
 }
 
 var mydata={
